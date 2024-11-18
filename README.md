@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Python & AI
+- 📫 How to reach me: hiboor.github.io
+- ⚡ Skill: Eat, drink, poop, sleep
+
 <!--
 **Hiboor/Hiboor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
